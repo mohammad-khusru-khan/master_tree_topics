@@ -1,0 +1,32 @@
+a b e r = ( ) + ;
+A E F P R S T
+S
+7
+S->AR
+P->bSe
+R->AR|@
+A->a=E;
+E->FT
+T->+FT|@
+F->(E)|a|r
+
+================================
++ * a ( )
+E B T Y F
+E
+5
+E->TB
+B->+TB|@
+T->FY
+Y->*FY|@
+F->a|(E)
+
+================================
+a b d
+A B C D S
+S
+4
+S-> aA|bB|dC
+A->aA| bA|d
+B->bB|d
+C->d
