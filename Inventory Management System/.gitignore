@@ -1,0 +1,7 @@
+./build/main
+./build/
+./dist
+*.sqlite
+*.sqbpro
+*.exe
+*.spec
