@@ -1,6 +1,6 @@
 /*
-cpp program to generate n-bit graycodes.
-vector is the data structure being used to store the gray codes for effiecient logic.
+cpp program to generate n-bit gray codes.
+vector is the data structure being used to store the gray codes for efficient logic.
 */
 #include <bits/stdc++.h>
 using namespace std;
