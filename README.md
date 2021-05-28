@@ -1,1 +1,1 @@
-# codes of different topics and puzzles.
+# codes on different topics and puzzles.
