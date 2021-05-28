@@ -1,2 +1,1 @@
-# general_topics
- Python codes of different topics
+# codes on different topics and puzzles.
