@@ -17,7 +17,7 @@ int max_chocolates(int n)
         deduct the used wrappers and buy new chocolates with them.
         both chocolates and wrappers are updated with new number of new chocolates bought.
         */
-        int new_chocolates = int32_t(wrappers / 3);
+        int new_chocolates = int(wrappers / 3);
         wrappers -= new_chocolates * 3;
         chocolates += new_chocolates;
         wrappers += new_chocolates;
